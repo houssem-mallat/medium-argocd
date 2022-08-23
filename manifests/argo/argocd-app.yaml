@@ -13,6 +13,6 @@ spec:
       valueFiles:
         - values.yaml
     path: manifests/helm-app
-    repoURL: https://github.com/Abszissex/medium-argocd.git
+    repoURL: https://github.com/houssem-mallat/medium-argocd.git
     targetRevision: HEAD
   syncPolicy: {}
